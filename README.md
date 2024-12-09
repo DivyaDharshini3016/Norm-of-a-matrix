@@ -39,15 +39,15 @@ print(n)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>exp.no.07-1.png
+![alt text](exp.no.07-1.png)
 
 
 ### 2-Norm of a Matrix
-<br>exp.no.07-2.png
+![alt text](exp.no.07-2.png)
 
 
 ### Infinity Norm of a Matrix
-<br>exp.07-3.png
+![alt text](exp.07-3.png)
 
 
 ## Result
